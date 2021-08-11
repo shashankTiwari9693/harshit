@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/harshit/static/css/main.7ee5a7ae.chunk.css",
+    "main.js": "/harshit/static/js/main.6865619d.chunk.js",
+    "main.js.map": "/harshit/static/js/main.6865619d.chunk.js.map",
+    "runtime-main.js": "/harshit/static/js/runtime-main.79b9bc6e.js",
+    "runtime-main.js.map": "/harshit/static/js/runtime-main.79b9bc6e.js.map",
+    "static/js/2.8fd5bdaf.chunk.js": "/harshit/static/js/2.8fd5bdaf.chunk.js",
+    "static/js/2.8fd5bdaf.chunk.js.map": "/harshit/static/js/2.8fd5bdaf.chunk.js.map",
+    "index.html": "/harshit/index.html",
+    "static/css/main.7ee5a7ae.chunk.css.map": "/harshit/static/css/main.7ee5a7ae.chunk.css.map",
+    "static/js/2.8fd5bdaf.chunk.js.LICENSE.txt": "/harshit/static/js/2.8fd5bdaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b9bc6e.js",
+    "static/js/2.8fd5bdaf.chunk.js",
+    "static/css/main.7ee5a7ae.chunk.css",
+    "static/js/main.6865619d.chunk.js"
+  ]
+}
